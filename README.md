@@ -94,6 +94,9 @@ The app uses the Messages framework which is naturally in UIkit and Storyboard. 
 
 Below is a video walkthrough of a FireChats 1.0
 
-https://github.com/ngordon68/FireChats/assets/102773701/2e9d9637-281d-488f-b489-e1c379bd5b6f
+
+
+https://github.com/ngordon68/FireChats-ReadMe/assets/102773701/3144197e-e07b-4de4-a949-c368dbf8a71b
+
 
 
