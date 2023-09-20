@@ -8,9 +8,18 @@ An IMessage app that you send a debatable topic to the chat and the members of t
 ## 
 
 
+ <table>
+ <tr>
+
+<td>
 <img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/47597907-20f3-43d6-9834-50d1b2788b82">
+</td>
 
 <img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/5911aa6c-6d02-4b3a-8b29-7441dcd27187">
+</td>
+
+<tr>
+<table>
 
 <img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/b1210a2d-b2a9-4eca-a47b-cb10778030c4">
 
