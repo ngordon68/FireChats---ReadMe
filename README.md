@@ -1,19 +1,21 @@
 # FireChats
-<img width="100" alt="Screen Shot 2023-02-15 at 8 14 27 AM" src="https://github.com/ngordon68/Challenge6/assets/102773701/a7e7b6bf-ce8b-45b7-83d7-3a1610ae1e5e.png">
+<img width="100" alt="Screen Shot 2023-02-15 at 8 14 27 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/299dbed9-0794-4c75-aa20-a87df14230a4">
 
 # 01 OverView
-
-The idea is that you send a debatable topic to the chat and the members can tap to vote agree (🔥) or disagree (❄️).   
+An IMessage app that you send a debatable topic to the chat and the members of the chat can tap to vote agree or disagree with a corresponding color. You can also send the debatable topic to social media as well.
 
 
 ## 
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/bcec6974-955e-432a-a065-881cfe5fb9cd">
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/b6a7f061-8e01-4c70-a5ca-a0328382f26b)">
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/4af1743f-9ce7-4d72-aba2-2e6520e2b30d">
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/d9a9a010-4842-42bc-9013-d9efbba2c560">
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/6b5d60e5-d88d-4d17-8e2e-650323b27006">
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/b743c11d-0831-427d-8391-941d26826385">
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/c7f4dc96-6c62-4b88-a935-c9a809a02f90">
+
+
+<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/47597907-20f3-43d6-9834-50d1b2788b82">
+
+<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/5911aa6c-6d02-4b3a-8b29-7441dcd27187">
+
+<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/b1210a2d-b2a9-4eca-a47b-cb10778030c4">
+
+<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/bbe08a99-bed4-4da5-8117-eb999db88d1f">
+
 
 
 
@@ -44,13 +46,15 @@ Messages, AVKit, LottieFiles, UIKit
  <table>
  <tr>
 
-
   <td>
  <img width="224" alt="week2" src="https://github.com/ngordon68/FireChats/assets/102773701/72b799b4-2107-421f-9636-ed5c05d58123">
 
    <td>
    
  <img width="224" alt="week2" src="https://github.com/ngordon68/FireChats/assets/102773701/59214594-305e-4da3-b434-fc97c4902def">
+
+   <tr>
+   <table>  
 
   <td>
   
@@ -60,8 +64,7 @@ Messages, AVKit, LottieFiles, UIKit
     
   <img width="224" alt="week3" src="https://github.com/ngordon68/FireChats/assets/102773701/28123804-405f-4e77-a97f-2652ae708e72">
 
-  <tr>
-   <table>  
+
    
 # 05 Technical Walkthrough
     
@@ -71,14 +74,9 @@ The app uses the Messages framework which is naturally in UIkit and Storyboard. 
     
     
 # 06 Demo
-    
-    
-https://github.com/ngordon68/FireChats/assets/102773701/eae9dd79-9f33-4e07-9819-fcd0748d87cd
-    
+
+Below is a video walkthrough of a FireChats 1.0
+
+https://github.com/ngordon68/FireChats/assets/102773701/2e9d9637-281d-488f-b489-e1c379bd5b6f
 
 
-
-
-    
-
-https://github.com/ngordon68/FireChats/assets/102773701/eae9dd79-9f33-4e07-9819-fcd0748d87cd
